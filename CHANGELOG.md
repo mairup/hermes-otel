@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.33.4](https://github.com/briancaffey/hermes-otel/compare/hermes-otel-v1.33.3...hermes-otel-v1.33.4) (2026-11-23)
+
+
+### Bug Fixes
+
+* **config:** read hermes_otel.yaml with ruamel.yaml when PyYAML is missing ([b846e1e](https://github.com/briancaffey/hermes-otel/commit/b846e1ed6cfcc4660ce3c4b680f3a7f9aa4c6fde))
+
 ## [1.33.3](https://github.com/briancaffey/hermes-otel/compare/hermes-otel-v1.33.2...hermes-otel-v1.33.3) (2026-11-22)
 
 
